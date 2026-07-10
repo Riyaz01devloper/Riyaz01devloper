@@ -77,10 +77,11 @@ https://github.com/Riyaz01devloper/SmartMeet
 
 Offline AI Emergency Assistant
 
-GitHub:
-https://github.com/Riyaz01devloper/ResQ-AI
 Live Demo:
 https://emergencyassistantai.vercel.app/
+
+GitHub:
+https://github.com/Riyaz01devloper/ResQ-AI
 
 ## Tech Stack:
 

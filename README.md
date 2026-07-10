@@ -1,9 +1,15 @@
 
-# Hi 👋, I'm Riyaz Malik
+<h1 align="center">Hi 👋, I'm Riyaz Malik</h1>
 
-### AI Engineer | Full Stack Developer
+<h3 align="center">
+AI Engineer • Full Stack Developer • B.Tech CSE @ Jamia Millia Islamia
+</h3>
 
-I enjoy building AI-powered applications using FastAPI, Next.js and modern AI technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;FastAPI+Developer;Next.js+Developer;Building+AI+Products"/>
+
+I enjoy building AI-powered products using FastAPI, Next.js and modern LLMs.
+</p>
 
 ---
 

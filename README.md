@@ -47,8 +47,14 @@ I enjoy building AI-powered products using FastAPI, Next.js and modern LLMs.
 
 </p>
 
-## Tech Stack
 
+## 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,sqlite,tailwind,git,github,vscode,postman"/>
+
+</p>
 Python • Java • JavaScript • TypeScript • React • Next.js • FastAPI • Node.js • Express • SQLite • MongoDB • Tailwind CSS • Git • GitHub • Gemini AI • Groq Whisper
 
 ---
@@ -73,8 +79,8 @@ Offline AI Emergency Assistant
 
 GitHub:
 https://github.com/Riyaz01devloper/ResQ-AI
-Live Demo :
-https://emergencyassistantai.vercel.app
+Live Demo:
+https://emergencyassistantai.vercel.app/
 
 ## Tech Stack:
 

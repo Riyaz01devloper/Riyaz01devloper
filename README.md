@@ -10,18 +10,42 @@ AI Engineer • Full Stack Developer • B.Tech CSE @ Jamia Millia Islamia
 
 I enjoy building AI-powered products using FastAPI, Next.js and modern LLMs.
 </p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Riyaz01devloper&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- B.Tech CSE Student
-- Building AI Products
-- FastAPI Developer
-- Learning AI Engineering
-- Open Source Enthusiast
+- 🎓 B.Tech CSE Student at Jamia Millia Islamia
+- 🤖 Passionate about AI Engineering
+- 🌐 Full Stack Developer
+- 🚀 Building real-world AI applications
+- 📚 Currently learning LangGraph, AI Agents and System Design
+- 💬 Ask me about FastAPI, Next.js, Python, React and Generative AI
 
 ---
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/riyaz-malik-a5509332a
+">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:riyazmalik2046@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
 
 ## Tech Stack
 

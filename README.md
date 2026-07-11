@@ -80,7 +80,3 @@ https://github.com/Riyaz01devloper/ResQ-AI
 
 
 
-
-## Github stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riyaz01devloper&show_icons=true&theme=radical)

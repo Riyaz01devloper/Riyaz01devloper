@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Riyaz Malik</h1>
+<h1 align="center">Hi , I'm Riyaz Malik</h1>
 
 <h3 align="center">
 AI Engineer • Full Stack Developer • B.Tech CSE @ Jamia Millia Islamia
